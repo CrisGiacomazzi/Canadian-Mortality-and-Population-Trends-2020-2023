@@ -7,3 +7,18 @@ The objective of this project is to analyze the patterns and trends in populatio
 * Evaluate regional disparities in mortality and population distribution.
 * Visualize trends through maps, bar charts, and time series to support data-driven insights.
 * Contribute to public health monitoring by highlighting shifts in health outcomes and demographic pressure.
+
+1. Data Source
+
+Population Data:
+* Statistics Canada (https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901 )
+* Table: "Population estimates, quarterly"
+* Years: 2000–2023
+* Granularity: Provincial
+* Indicator: "Population, total" 
+
+Death Statistics:
+* Statistics Canada - Vital Statistics (https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310039401)
+* Table: "Leading causes of death, total population, by age group"
+* Years: 2000–2023
+* Includes: Total deaths, cause of death 
