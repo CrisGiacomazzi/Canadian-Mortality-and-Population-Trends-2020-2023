@@ -31,7 +31,7 @@ The objective of this project is to analyze the patterns and trends in populatio
 | Index | Unique ID |
 | Province | The Province in Canada |
 | Q1 2020 - Q4 2023 | Quartiles and year|
-| 2000-2023| Year|
+| 2000 - 2023| Year|
 
 * Mortality Datasets ("death_canada_clean")
   
