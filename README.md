@@ -72,6 +72,7 @@ Figure 1. In Canada, the population has increased after 2021
 
 
 
+
 <img width="479" alt="Screen Shot 2025-06-05 at 7 20 19 PM" src="https://github.com/user-attachments/assets/e2e8fef5-f744-44dd-813f-a99e03489846" />
 
 Figure 2. The number of deaths in Canada was higher in 2022
