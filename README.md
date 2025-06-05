@@ -25,6 +25,7 @@ The objective of this project is to analyze the patterns and trends in populatio
 
 ## 2. Dictionary
 * Population dataset ("population_canada_clean")
+  
 | Variable | Description |
 | --- | --- |
 | Index | Unique ID |
@@ -33,6 +34,7 @@ The objective of this project is to analyze the patterns and trends in populatio
 | 2000-2023| | Year|
 
 * Mortality Datasets ("death_canada_clean")
+  
 | Variable | Description |
 | --- | --- |
 | Index | Unique ID|
