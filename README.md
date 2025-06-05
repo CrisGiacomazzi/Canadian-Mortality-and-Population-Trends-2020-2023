@@ -61,4 +61,4 @@ This project complies with the TCPS 2. The dataset is in the public domain.
 * Ploting data with clause for negative and positive values (IF, ELSE)
 * Split the dataset "death_canada_clean" in 2 new datasets to analyse the distribution of contagious and non-contagious diseases
 
-## 5. 
+## 5. Project Plan
