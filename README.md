@@ -43,4 +43,22 @@ The objective of this project is to analyze the patterns and trends in populatio
 | Total | Total per cause|
 | Contagious | The cause is contagious or not|
 
-## 
+## 3. Ethics Statement
+This project complies with the TCPS 2. The dataset is in the public domain.
+
+## 4. Data preparationg
+* Rename year columns in "population_canada_clean" dataset (RENAME)
+* Transposing data in "population_canada_clean_renamed" dataset to create a bar chart (PROC TRANSPOSE)
+* Rouding numbers to display
+* Filter data by Contagious or not (PROC SQL)
+* Group the data by Cause (GROUP BY)
+* Order the dataset in descending order to display (ORDER BY)
+* Keeping only necessary information (KEEP)
+* Creating a new dataset to build a map and join with "maps.canada"(JOIN)
+* Feature engineering: Adding a new column with CDCODES in the dataset to permit join with "maps.canada" and upcase the Province names (UPCASE)
+* Calculating Year-Over-Year data and round data (FORMAT)
+* Filtering dataset by Province (WHERE)
+* Ploting data with clause for negative and positive values (IF, ELSE)
+* Split the dataset "death_canada_clean" in 2 new datasets to analyse the distribution of contagious and non-contagious diseases
+
+## 5. 
