@@ -70,8 +70,7 @@ The datasets were uploaded from the Statistics Canada website in CSV format, and
 
 Figure 1. In Canada, the population has increased after 2021
 
-
-
+<br><br>
 
 <img width="479" alt="Screen Shot 2025-06-05 at 7 20 19 PM" src="https://github.com/user-attachments/assets/e2e8fef5-f744-44dd-813f-a99e03489846" />
 
@@ -101,7 +100,6 @@ Figure 6. Year-over-year population rate change by Province (2020-2023)
 <img width="429" alt="Screen Shot 2025-06-05 at 7 25 59 PM" src="https://github.com/user-attachments/assets/fe5118fd-f0b5-4391-941a-56f2daa3d9f1" />
 
 Figure 7. Year-over-year population rate change in "Newfoundland and Labrador" and "Northwest Territories" (2020-2023)
-
 
 
 <img width="422" alt="Screen Shot 2025-06-05 at 7 27 14 PM" src="https://github.com/user-attachments/assets/b2dec594-a8aa-4553-84e2-f7d944691924" />
