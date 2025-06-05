@@ -21,4 +21,24 @@ The objective of this project is to analyze the patterns and trends in populatio
 * Statistics Canada - Vital Statistics (https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310039401)
 * Table: "Leading causes of death, total population, by age group"
 * Years: 2000–2023
-* Includes: Total deaths, cause of death 
+* Includes: Total deaths, cause of death
+
+## 2. Dictionary
+* Population dataset ("population_canada_clean")
+| Variable | Description |
+| --- | --- |
+| Index | Unique ID |
+| Province | The Province in Canada |
+| Q1 2020 - Q4 2023 | Quartiles and year|
+| 2000-2023| | Year|
+
+* Mortality Datasets ("death_canada_clean")
+| Variable | Description |
+| --- | --- |
+| Index | Unique ID|
+| Cause| The cause of death|
+| 2020 - 2023 | Year|
+| Total | Total per cause|
+| Contagious | The cause is contagious or not|
+
+## 
