@@ -69,7 +69,6 @@ The datasets were uploaded from the Statistics Canada website in CSV format, and
 <img width="476" alt="Screen Shot 2025-06-05 at 7 17 15 PM" src="https://github.com/user-attachments/assets/351ece55-4023-4e2a-9ad3-fa559d37445d" />
 
 Figure 1. In Canada, the population has increased after 2021
-* 
 <br><br>
 
 <img width="479" alt="Screen Shot 2025-06-05 at 7 20 19 PM" src="https://github.com/user-attachments/assets/e2e8fef5-f744-44dd-813f-a99e03489846" />
