@@ -126,5 +126,7 @@ Figure 11. Results of Mann-Whitney U test (Wilcoxon Scores in SAS) comparing med
 
 Figure 12. Top 5 causes of Non-contagious deaths in Canada (2020-2023)
 
-## 7. Communication and Action
+## 7. SWOT Analysis
+
+
 
