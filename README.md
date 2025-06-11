@@ -133,3 +133,9 @@ Figure 12. Top 5 causes of Non-contagious deaths in Canada (2020-2023)
 
 PHO - Supporting Resources. Link- https://www.publichealthontario.ca/en/Data-and-Analysis/Chronic-Disease/cdburden 
 
+Statistics Canada. Table 17-10-0009-01  Population estimates, quarterly
+DOI: https://doi.org/10.25318/1710000901-eng
+
+Statistics Canada. Table 13-10-0394-01  Leading causes of death, total population, by age group
+DOI: https://doi.org/10.25318/1310039401-eng 
+
